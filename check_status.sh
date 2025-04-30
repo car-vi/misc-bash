@@ -26,6 +26,5 @@ else
 
 fi
 
-
 tail -n 10 /tmp/ts01_results > /tmp/ts01_results.tmp
 mv /tmp/ts01_results.tmp /tmp/ts01_results
